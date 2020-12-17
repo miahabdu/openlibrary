@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'webmock', '~> 3'
 
   s.add_runtime_dependency 'json',  '~> 1.7', '>= 1.7.7'
-  s.add_runtime_dependency 'rest-client', '~> 2.0', '~> 2.0.1'
+  s.add_runtime_dependency 'rest-client', '~> 2.1.0'
   s.add_runtime_dependency 'hashie', '~> 2.0', '~> 2.0.2'
 
   s.add_runtime_dependency 'activesupport', '~> 6'
